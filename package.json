@@ -1,6 +1,6 @@
 {
     "name": "laravel-mix-docara",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "Laravel Mix plugin for Docara based on Jigsaw",
     "license": "MIT",
     "main": "index.js",
